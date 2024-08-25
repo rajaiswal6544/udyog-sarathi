@@ -3,17 +3,10 @@
 1.Abhinabha Paul
 
 2.Priyojit Kundu
-
-3.Arati Kumari
-4.Subhodeep Mukherjee 
 # Backend team:-
-1.Shuvam Sardar
-
-2.Debanjan Malakar 
-
-
+1.Raj Jaiswal
 # Demo link
-link [https://udyogsaarthi.vercel.app/]
+link https://udyog-saarthi-hosting.vercel.app/
 
 In the project directory, you can run:
 
